@@ -22,7 +22,7 @@ class ProfilePage extends StatelessWidget {
                 ),
                 SizedBox(height: 20),
                 Text(
-                  'ripki tri',
+                  'Rifki Tri haryanto',
                   style: TextStyle(
                     fontSize: 24,
                     fontWeight: FontWeight.bold,
@@ -30,7 +30,7 @@ class ProfilePage extends StatelessWidget {
                 ),
                 SizedBox(height: 10),
                 Text(
-                  'mahasiswa udb',
+                  'mahasiswa Universitas Duta Bangsa',
                   style: TextStyle(
                     fontSize: 16,
                     color: Colors.grey,
