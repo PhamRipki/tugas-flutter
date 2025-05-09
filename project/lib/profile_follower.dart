@@ -8,7 +8,7 @@ class ProfilePage extends StatefulWidget {
 }
 
 class _ProfilePageState extends State<ProfilePage> {
-  int _followers = 1200;
+  int _followers = 2500;
   bool _isFollowing = false;
 
   void _toggleFollow() {
